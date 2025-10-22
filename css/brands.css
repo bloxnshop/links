@@ -38,10 +38,24 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Documentation */
+.button-documentation {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
 /* Play our game! */
 .button-play-our-game- {
     --button-text: #ffffff;
     --button-background: #2457f5;
+}
+
+/* Roblox Community */
+.button-roblox-community {
+    --button-text: #ffffff;
+    --button-background: #000000;
+    --button-border: 1px solid #FFFFFF;
 }
 
 /* Amazon */
